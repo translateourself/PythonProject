@@ -1,0 +1,8 @@
+import pydirectinput
+
+if currentScene  == "赛丽亚"
+//  单击一下 keyDown
+pydirectinput.keyDown('s')
+time.sleep(1)
+//  弹起 keyUp
+pydirectinput.keyUp('s')
